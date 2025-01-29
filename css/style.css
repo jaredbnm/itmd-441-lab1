@@ -1,3 +1,9 @@
-body {
-  
+div {
+  background-color: rgb(133, 146, 121);
+  border: 20px solid rgb(93, 106, 80);
+  padding: 20px;
+}
+
+h1 {
+  text-align: center;
 }
